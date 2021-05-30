@@ -1,0 +1,3 @@
+[submodule "Plugins/ReplicatedALS"]
+	path = Plugins/ReplicatedALS
+	url = https://github.com/eyupalemdar/Replicated-ALS.git
